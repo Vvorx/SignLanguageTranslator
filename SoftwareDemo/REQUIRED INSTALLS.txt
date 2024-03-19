@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+scikit-learn
+
+install all these using pip
+
